@@ -39,3 +39,4 @@ while（scanf（）==//校验所输入的数据类型）
 字符串排序
 prime number/gcd
 分数的相关问题
+http://tieba.baidu.com/p/4371280614
