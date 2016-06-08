@@ -37,5 +37,5 @@ while（scanf（）==//校验所输入的数据类型）
 选择排序/冒泡排序
 二分搜索
 字符串排序
-prime number/gcd\n
+prime number/gcd
 分数的相关问题
